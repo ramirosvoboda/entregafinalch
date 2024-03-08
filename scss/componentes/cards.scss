@@ -1,0 +1,71 @@
+#microOndas{
+        display: grid; 
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+        grid-gap: 20px; 
+        padding: 40px;
+      }
+      
+      .card {
+        background-color: #fff; 
+        border-radius: 25px; 
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+        padding: 40px; 
+      }
+  
+ 
+ #aireAcondicionado{
+        display: grid; 
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+        grid-gap: 20px; 
+        padding: 40px;
+      }
+      
+      .card {
+        background-color: #fff; 
+        border-radius: 25px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+        padding: 40px; 
+      }
+      #heladera{
+        display: grid; 
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+        grid-gap: 20px; 
+        padding: 40px;
+      }
+      
+      .card {
+        background-color: #fff; 
+        border-radius: 25px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+        padding: 40px; 
+      }
+      #horno{
+        display: grid; 
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+        grid-gap: 20px; 
+        padding: 40px;
+      }
+      
+      .card {
+        background-color: #fff; 
+        border-radius: 25px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+        padding: 40px; 
+      }
+      #liquadora{
+        display: grid; 
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+        grid-gap: 20px; 
+        padding: 40px;
+      }
+      
+      .card {
+        background-color: #fff; 
+        border-radius: 25px; 
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+        padding: 40px; 
+      }
+      
+      
+     
+    

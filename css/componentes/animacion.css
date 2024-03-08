@@ -1,0 +1,52 @@
+body {
+  background-image: url("/assetes/background3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+.welcome-banner {
+  text-align: center;
+  padding: 300px 250px;
+}
+
+h1 {
+  color: #333;
+  font-size: 408px;
+}
+
+.square-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 75px;
+}
+
+.square {
+  width: 90px;
+  height: 90px;
+  margin: 0 40px;
+  background-color: red;
+  animation: changeColor 2s infinite alternate;
+}
+
+@keyframes changeColor {
+  0% {
+    background-color: red;
+  }
+  25% {
+    background-color: blue;
+  }
+  50% {
+    background-color: green;
+  }
+  75% {
+    background-color: yellow;
+  }
+  100% {
+    background-color: red;
+  }
+}
+
+/*# sourceMappingURL=animacion.css.map */
